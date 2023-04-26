@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40brandtwoolf-239a3b.svg)](https://github.com/brandtwoolf)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/brandtwoolf/)
@@ -7,7 +7,7 @@ My name is [@BrandtWoolf](https://github.com/brandtwoolf) and I currently am a S
 
 🔭 I’m currently working on a Ruby on Rails Application to view your entire financial portfolio, locally without sharing said data with anyone but yourself. Stay tuned for more details and its initial release!
 
-🧠 I consider myself an expert in the following topics:
+## 🧠 I consider myself an expert in the following topics:
 
 - [Ruby](https://www.ruby-lang.org/en/)
 - [Ruby on Rails](https://rubyonrails.org/)
@@ -22,15 +22,18 @@ My name is [@BrandtWoolf](https://github.com/brandtwoolf) and I currently am a S
 - [Home Assistant](https://www.home-assistant.io/)
 - Linux System Administration
 
-🔬 I am proficient in the following topics:
+## 🔬 I am proficient in the following topics:
 
 - [Puppet](https://www.puppet.com/)
 - [Terraform](https://www.terraform.io/)
 - [Go](https://go.dev/)
 - [Satellite](https://www.redhat.com/en/technologies/management/satellite) & Upstream [Foreman](https://theforeman.org/)
 - [Consul](https://www.consul.io/)
+- [Sensu](https://sensu.io/)
+- [Datadog](https://www.datadoghq.com/)
+- [Elasticsearch](https://www.elastic.co/)
 
 
-🎓 Education
+## 🎓 Education
 
-![RIT Alumni](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2020-04/RIT_RGB_vert_k.png)
+![RIT Alumni](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2020-04/RIT__vert_w_k.png)
