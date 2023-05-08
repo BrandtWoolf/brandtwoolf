@@ -37,3 +37,4 @@ My name is [@BrandtWoolf](https://github.com/brandtwoolf) and I currently am a S
 ## 🎓 Education
 
 ![RIT Alumni](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2020-04/RIT_RGB_hor.png)
+
