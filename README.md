@@ -5,7 +5,7 @@
 
 My name is [@BrandtWoolf](https://github.com/brandtwoolf) and I currently am a Software Engineer at [@GitHub](https://github.com)!
 
-🔭 I’m currently working on a Ruby on Rails Application to view your entire financial portfolio, locally without sharing said data with anyone but yourself. Stay tuned for more details and its initial release!
+🔭 I’m currently working on a Application to view your entire financial portfolio, locally without sharing said data with anyone but yourself. Stay tuned for more details and its initial release!
 
 ## 🧠 I consider myself an expert in the following topics:
 
